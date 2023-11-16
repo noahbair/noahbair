@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @noahbair
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Vue.JS
+Experienced Software Developer with a passion for problem-solving and creating robust solutions. Proficient in a wide range of technologies, including Visual Basic, C#, JavaScript, .NET Framework, MySQL, and more. My expertise extends from API development, technical design, and software development to financial reporting and database management.
 
-<!---
-noahbair/noahbair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My journey in the world of software development has allowed me to master multiple programming languages and tools, such as JSON, ASP.NET MVC, .NET Core, and KnockoutJS. I thrive in agile environments, utilizing Scrum methodologies to drive projects to success. With a strong foundation in customer service, I understand the importance of timely project delivery and prioritize effective time management in every task.
